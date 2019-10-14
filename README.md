@@ -9,3 +9,8 @@
 2. Include the JS file in your code base
 
 This is implemented as an IIFE so the spy is turned on immediately upon execution.
+
+# Use cases
+1. Help troubleshoot a UI bug
+2. Ensure that your app's DOM elements are working as expected (getting the right class on click, etc)
+3. Find out how another web app is structured
